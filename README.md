@@ -6,5 +6,6 @@
 <!--
 
 -->
-
+Welcome to my page!
+I'm Jo, Backend developer and Application developer from 🇰🇷 Seoul, South Korea.
 #### Things I code with
