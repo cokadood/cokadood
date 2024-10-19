@@ -3,9 +3,7 @@
 
 ## Hey! Nice to see you. I'm Jo 👋
 
-<!--
-
--->
+---
 Welcome to my page!
 I'm Jo, Backend developer and Application developer from 🇰🇷 Seoul, South Korea.
 
